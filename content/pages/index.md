@@ -35,7 +35,7 @@ sections:
       url: /images/images (1).jpg
       altText: Hero section image
   - type: CardsSection
-    title: Our
+    title: Our Breeds
     subtitle: Section subtitle here
     items:
       - type: Card
