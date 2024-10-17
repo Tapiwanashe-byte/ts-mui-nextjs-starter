@@ -32,7 +32,7 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/images (1).jpg
+      url: /images/images (5).jpg
       altText: Hero section image
   - type: CardsSection
     title: Our Breeds
