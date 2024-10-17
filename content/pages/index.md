@@ -32,7 +32,7 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/PASSION-CRUSH.jpeg
+      url: /images/images (1).jpg
       altText: Hero section image
   - type: CardsSection
     title: Cards Section Component
