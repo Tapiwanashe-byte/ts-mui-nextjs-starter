@@ -5,10 +5,18 @@ sections:
   - type: HeroSection
     title: Chingondi Farm
     subtitle: 'Cabbage Grower, Cattle Rearing'
-    text: >
-      This is the HeroSection component. You can visually edit this component &
-      add more sections while developing locally. [Learn
-      more.](https://docs.netlify.com/visual-editor/local-development/)
+    text: >2+
+       **List of Products:** Showcase the produce, livestock, or value-added products (like jams or soaps) that you offer. Include descriptions and prices if relevant.
+
+      *   **Seasonal Availability:** If your farm’s offerings change with the
+      seasons, provide a calendar showing what’s available and when.
+
+
+      *   **Product Photos:** High-quality photos of your crops, animals, and
+      any packaged products to visually engage visitors.
+
+
+
     actions:
       - type: Button
         label: Start Building
