@@ -42,7 +42,7 @@ sections:
         title: First Card Title
         image:
           type: Image
-          url: /images/nextjs.svg
+          url: /images/probtt_csr-03.jpg
           altText: First item image
         text: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
