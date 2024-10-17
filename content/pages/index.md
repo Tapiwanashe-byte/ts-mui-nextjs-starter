@@ -57,7 +57,7 @@ sections:
         title: Second Card Title
         image:
           type: Image
-          url: /images/Rasberry.jpg
+          url: /images/images (4).jpg
           altText: Second item image
         text: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
